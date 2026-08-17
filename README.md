@@ -1,7 +1,5 @@
 # Thailand Renewable Energy Transition Analysis (2005–2035)
 
-> **Business Intelligence and Analytics**  
-
 ---
 
 ## Executive Summary
