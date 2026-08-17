@@ -1,6 +1,6 @@
 # ⚡ Thailand Renewable Energy Transition Analysis (2005–2035)
 
-> **ISYS6013 Business Intelligence and Analytics — Assignment 03**  
+> **Business Intelligence and Analytics**  
 > *Author: Analytics Consultant*
 
 ---
